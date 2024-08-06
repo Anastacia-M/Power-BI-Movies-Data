@@ -8,3 +8,4 @@ The main purpose of the dashboard is to analyze movie data and gain insights int
 
 I found that creating visuals in Power BI was very convenient and intuitive, thanks to its drag-and-drop interface and advanced visualization options. However, I did encounter some challenges with arranging these visuals on the screen, which can be improved for a smoother user experience. 
 
+Please find the Movies Data.pbix file in the repository
